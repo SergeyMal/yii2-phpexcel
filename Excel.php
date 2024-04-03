@@ -1,6 +1,6 @@
 <?php
 
-namespace moonland\phpexcel;
+namespace malyshev\phpexcel;
 
 use yii\helpers\ArrayHelper;
 use yii\base\InvalidConfigException;
