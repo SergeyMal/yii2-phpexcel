@@ -1,3 +1,5 @@
+Форк [репозитория](https://github.com/moonlandsoft/yii2-phpexcel) для поддержки PHP 8.3
+
 Yii2 PHP Excel
 ==============
 
@@ -51,13 +53,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist moonlandsoft/yii2-phpexcel "*"
+php composer.phar require --prefer-dist malyshev/yii2-phpexcel "*"
 ```
 
 or add
 
 ```
-"moonlandsoft/yii2-phpexcel": "*"
+"mmalyshev/yii2-phpexcel": "*"
 ```
 
 to the require section of your `composer.json` file.
