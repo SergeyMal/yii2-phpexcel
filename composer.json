@@ -1,5 +1,5 @@
 {
-	"name" : "malyshev/yii2-phpexcel",
+	"name" : "malyshev-soft/yii2-phpexcel",
 	"description" : "Exporting PHP to Excel or Importing Excel to PHP8.3",
 	"type" : "yii2-extension",
 	"keywords" : [

@@ -53,13 +53,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist malyshev/yii2-phpexcel "*"
+php composer.phar require --prefer-dist malyshev-soft/yii2-phpexcel "*"
 ```
 
 or add
 
 ```
-"mmalyshev/yii2-phpexcel": "*"
+"malyshev-soft/yii2-phpexcel": "*"
 ```
 
 to the require section of your `composer.json` file.
